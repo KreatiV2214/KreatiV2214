@@ -17,7 +17,7 @@ We are proficient in **HTML, CSS, JavaScript**, and FullStack development using 
 We have hands-on experience in developing Software applications, which has strengthened my technical and problem-solving skills.  
 
 ---
-<div style="text-align:center"> Work With <a href="https://github.com/keerthu2207">Keerthanaa</a> & <a href="https://github.com/varshan78sjj">JayaVarshan</a> </div>
+<div align=center> Work With <a href="https://github.com/keerthu2207">Keerthanaa</a> & <a href="https://github.com/varshan78sjj">JayaVarshan</a> </div>
 
 ## 🛠️ Technical Skills
 
